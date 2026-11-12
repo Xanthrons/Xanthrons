@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xanthrons
+- 👋 Hi, I’m Fira
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning @ Addis Ababa Science and Technology University 
 - 💞️ I’m looking to collaborate on any project containing react, nextjs, flutter and php
